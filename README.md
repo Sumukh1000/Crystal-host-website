@@ -43,5 +43,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or inquiries, or if you would like to discuss other web development projects, please feel free to contact me:
 
-- Email: [your-email@example.com](mailto:sumukh2446@gmail.com)
-- GitHub: [github.com/your-username](https://github.com/sumukh1000)
+- Email: [sumukh2446@gmail.com](mailto:sumukh2446@gmail.com)
+- GitHub: [github.com/sumukh1000](https://github.com/sumukh1000)
