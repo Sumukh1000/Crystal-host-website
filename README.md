@@ -1,4 +1,3 @@
-# Crystal-host-website
 # Crystal Host - Server Hosting Service [CLOSED]
 
 **Note: Crystal Host is no longer in operation. This repository serves as a demonstration of my web development skills and experience.**
